@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Desenvolvedor com 3 anos de experiência em JavaScript para front-end e back-end, atualmente em transição para o back-end com Java. Experiência em construção de APIs, integração de sistemas e arquitetura limpa, além de projetos pessoais e acadêmicos que ampliaram habilidades técnicas e de resolução de problemas.</p>
+<p align="left">Desenvolvedor com 3 anos de experiência acadêmica em JavaScript para front-end e back-end, atualmente em transição para o back-end com Java. Experiência em construção de APIs, integração de sistemas e arquitetura limpa, além de projetos pessoais e acadêmicos que ampliaram habilidades técnicas e de resolução de problemas.</p>
 
 ###
 
